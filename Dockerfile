@@ -1,6 +1,6 @@
 # Start with Ubuntu 14.04 (LTS), and build a Minion install up from there
 FROM ubuntu:14.04
-MAINTAINER April King <april@twoevils.org>
+MAINTAINER April King <april@mozilla.com>
 ENV MINION_FRONTEND /opt/minion/minion-frontend
 EXPOSE 8080
 RUN apt-get update && apt-get install -y build-essential \
