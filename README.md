@@ -1,4 +1,4 @@
-# minion-docker
+# minion-frontend-docker
 Dockerfile needed to create a fully functional Minion build
 
 Mozilla Minion is available:
